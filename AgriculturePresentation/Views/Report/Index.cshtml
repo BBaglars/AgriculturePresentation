@@ -1,0 +1,37 @@
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="col-lg-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Exel Raporları</h4>
+            <div class="table-responsive">
+                <table class="table table-striped">
+                    <thead>
+                    <tr>
+                        <th>Raporlar</th>
+                        <th>Raporu Gör</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr>
+                        <td>Statik Rapor</td>
+                        <td><a href="/Report/StaticReport/" class="btn btn-outline-info">Rapor</a></td>
+                    </tr>
+                    <tr>
+                        <td>Mesaj Raporları</td>
+                        <td><a href="/Report/ContactReport/" class="btn btn-outline-success">Rapor</a></td>
+                    </tr>
+                    <tr>
+                        <td>Duyuru Raporları</td>
+                        <td><a href="/Report/AnnouncementReport/" class="btn btn-outline-primary">Rapor</a></td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
