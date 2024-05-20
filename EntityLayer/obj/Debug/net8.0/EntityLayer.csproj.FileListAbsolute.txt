@@ -12,3 +12,4 @@ C:\Users\LENOVO\source\repos\AgriculturePresentation\EntityLayer\obj\Debug\net8.
 C:\Users\LENOVO\source\repos\AgriculturePresentation\EntityLayer\obj\Debug\net8.0\EntityLayer.pdb
 C:\Users\LENOVO\source\repos\AgriculturePresentation\EntityLayer\obj\Debug\net8.0\EntityLayer.genruntimeconfig.cache
 C:\Users\LENOVO\source\repos\AgriculturePresentation\EntityLayer\obj\Debug\net8.0\ref\EntityLayer.dll
+C:\Users\LENOVO\source\repos\AgriculturePresentation\EntityLayer\obj\Debug\net8.0\EntityLayer.sourcelink.json

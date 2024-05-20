@@ -15,3 +15,4 @@ C:\Users\LENOVO\source\repos\AgriculturePresentation\BusinessLayer\obj\Debug\net
 C:\Users\LENOVO\source\repos\AgriculturePresentation\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
 C:\Users\LENOVO\source\repos\AgriculturePresentation\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
 C:\Users\LENOVO\source\repos\AgriculturePresentation\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\LENOVO\source\repos\AgriculturePresentation\BusinessLayer\obj\Debug\net8.0\BusinessLayer.sourcelink.json

@@ -15,3 +15,4 @@ C:\Users\LENOVO\source\repos\AgriculturePresentation\DataAccessLayer\obj\Debug\n
 C:\Users\LENOVO\source\repos\AgriculturePresentation\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
 C:\Users\LENOVO\source\repos\AgriculturePresentation\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
 C:\Users\LENOVO\source\repos\AgriculturePresentation\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+C:\Users\LENOVO\source\repos\AgriculturePresentation\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.sourcelink.json
